@@ -14,7 +14,7 @@
   <img alt="Osint-tool" src="https://img.shields.io/github/languages/code-size/Shirshakhtml/clickjacking-tester">
 
 </div>
-<h3 align="center">A Python-Bash script to check whether the given domain has clickjacking vulnerability or not.</h3>
+<h3 align="center">A Python-Bash script to check whether the given domain has Clickjacking Vulnerability</h3>
 
 ## Usage 
 ```
